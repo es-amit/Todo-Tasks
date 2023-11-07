@@ -1,16 +1,17 @@
-# to_do_tasks
+# Todo Tasks
 
-A new Flutter project.
+This is a simple Todo application developed using Flutter and integrated with Firebase services for authentication and data storage. It allows users to create new accounts and track their work.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User authentication via:
+  - Google Sign-In
+  - Phone Number
+  - Email ID
+- Secure data storage using Firebase Cloud Firestore
+- Real-time data synchronization across devices
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can install this application.
+link: https://drive.google.com/file/d/1TLOneI8PHKUqMb70XYGwT9K0K4-XZi8e/view?usp=sharing
